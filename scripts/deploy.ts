@@ -81,7 +81,7 @@ async function deployZkVVoter() {
 (async function run() {
   const mixer = await deployZkVVoter();
   console.log(
-    "zkVoter contract has been deployed to 0x2097B8d88Ae5e7069A43158d825bcd5e13e4ee70 " +
+    "zkVoter contract has been deployed to 0xc9a1572b04Cc69D6d1231E7FCF0f81dC78b49A89 " +
       mixer.target
   );
 })();

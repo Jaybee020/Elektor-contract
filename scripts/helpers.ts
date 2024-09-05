@@ -12,7 +12,7 @@ import {
 import zkVoterJson from "../artifacts/contracts/zkElection.sol/ZkElection.json";
 
 const providerUrl = "";
-const zkvoterContractAddr = "";
+const zkvoterContractAddr = "0xc9a1572b04Cc69D6d1231E7FCF0f81dC78b49A89";
 
 type BigIntish = bigint | BigNumberish | string | number;
 
